@@ -1,7 +1,7 @@
 <?php
 
 /**
- * The NoPassConfirm plugin
+ * NoPassConfirm plugin
  *
  * This plugin allows you to remove the password confirmation field on your buddypress registration page, 
  * in order to make it a little bit shorter.
