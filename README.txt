@@ -1,15 +1,15 @@
-=== NoPassConfirm ===
+=== No Password confirmation for buddypress ===
 
 Contributors: topieng
 Donate link: https://topi.io/
 Tags: registration, password, confirm, register, buddypress
 Requires at least: 4.1
 Tested up to: 4.3 and bp 2.9
-Stable tag: 4.3
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin allows you to remove the password confirmation field on your buddypress registration page, 
+The NoPassConfirm allows you to remove the password confirmation field on your buddypress registration page, 
 in order to make it a little bit shorter and user friendly.
 
 == Description ==
@@ -30,10 +30,10 @@ Very straightforward:
 
 == Frequently Asked Questions ==
 
-= What happens if the user misstypes his password during registration =
+= What happens if the user misstypes his password during registration? =
 Simple: he will not be able to login, and will have to use the 'lost-my-password' feature.
 
-= What about security =
+= What about security? =
 This plugin fills the password-confirmation field with the one provided by the user. This is done 
 on the fly, there's no read or write from the database. 
 
@@ -41,3 +41,7 @@ on the fly, there's no read or write from the database.
 
 = 1.0 =
 * Initial release
+
+== Upgrade Notice ==
+
+== Screenshots ==
