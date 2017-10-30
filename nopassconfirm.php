@@ -28,7 +28,7 @@ if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 
-define( 'NOPASSCONFIRM_VERSION', '1.0.1' );
+define( 'NOPASSCONFIRM_VERSION', '1.0.2' );
 
 /**
  * The code that runs during plugin activation.
